@@ -1,2 +1,2 @@
-# O365SMP
-O365 Supplemental Management Pack 
+# Office 365 Supplemental Management Pack
+Available for download at MonitoringGuys.com 
